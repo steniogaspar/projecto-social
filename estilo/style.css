@@ -60,3 +60,8 @@ section#redes-sociais img:hover{
     box-shadow: 5px 5px 10px black;
     transition: transform 0.3s, border 0.5s;
 }
+
+.erro{
+    color: red;
+    font-weight: bold;
+}
